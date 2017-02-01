@@ -1,1 +1,2 @@
-# scoala-informala-homeworks
+# scoala-informala-homeworks 
+Ciprian Andrei Furdui
